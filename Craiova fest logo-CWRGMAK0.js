@@ -1,0 +1,1 @@
+var e=``+new URL(`Craiova fest logo-Bf_Zn0ZV.png`,import.meta.url).href;export{e as t};
